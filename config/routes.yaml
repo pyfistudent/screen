@@ -1,0 +1,9 @@
+index:
+    path: /c
+    controller: App\Controller\DefaultController::index
+
+#controllers:
+ #ressource:
+  #  path: ../../src/Controller
+  #  namespace: App\Controller
+  #type: Attribute
